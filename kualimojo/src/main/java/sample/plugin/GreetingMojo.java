@@ -6,7 +6,7 @@ import org.apache.maven.plugins.annotations.Mojo;
 import org.apache.maven.plugins.annotations.Parameter;
 
 /**
- * Says "Hi" to the user.
+ * Says "Hi" to the user hitesh.
  *
  */
 @Mojo( name = "sayhi")
