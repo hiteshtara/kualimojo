@@ -1,7 +1,7 @@
 
 The following example walk s you through how to create your plug in for the pom these plug ins are handy when you want to do certain task associated with your project 
 
-New commit
+New commit please add 
 compile	Compiles the Java code for the plugin and builds the plugin descriptor
 test	Runs the plugin's unit tests
 package	Builds the plugin jar
