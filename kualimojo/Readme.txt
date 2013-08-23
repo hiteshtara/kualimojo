@@ -1,4 +1,4 @@
-
+******
 The following example walk s you through how to create your plug in for the pom these plug ins are handy when you want to do certain task associated with your project 
 
 New commit please add 
